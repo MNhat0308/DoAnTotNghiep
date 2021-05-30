@@ -5,7 +5,7 @@
   Đang tiếp tục thực hiện  
  29/05/2021  
   Map Chart chi tiết trường:Hoàn thành  
-  Slope Chart phân tích tỷ lệ phần trăm chỉ tiêu mỗi năm từ 2014 đến 2021 :Hoàn thành
+  Slope Chart phân tích tỷ lệ phần trăm chỉ tiêu mỗi năm từ 2014 đến 2021 :Hoàn thành  
  30/05/2021  
   DashBoard phân tích trường học và thống kê :Hoàn thành  
   
