@@ -14,7 +14,11 @@ Dự đoán trong bài hoạt động khi có số liệu từ 6 năm trở lên
  31/05/2021  
   Chart dự đoán điểm chuẩn của từng ngành theo trường:Hoàn thành    
   01/06/2021  
-  Chart so sánh điểm chuẩn từng ngành theo trường :hoàn thành  
+  Chart so sánh điểm chuẩn từng ngành theo trường :hoàn thành    
+  13/06/2021  
+  Hoàn thành DashBoard   
+  https://public.tableau.com/app/profile/nh.t2760/viz/DATN-final1/DBmenu (sẽ tiếp tục Update DashBoard)
+  
   
   
   
