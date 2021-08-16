@@ -18,6 +18,7 @@ Dự đoán trong bài hoạt động khi có số liệu từ 6 năm trở lên
   13/06/2021  
   Hoàn thành DashBoard   
   https://public.tableau.com/app/profile/nh.t2760/viz/DATN-final1/DBmenu (sẽ tiếp tục Update DashBoard)
+  Update link :https://public.tableau.com/app/profile/nh.t2760/viz/DATN-final1/Qutrnhphntchdon
   
   
   
